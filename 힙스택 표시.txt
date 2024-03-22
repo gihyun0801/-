@@ -1,0 +1,5 @@
+컴퓨터 느려졋을때 힙스택 표시
+
+workspace 
+
+General 에서 show heep status
